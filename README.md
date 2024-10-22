@@ -2,7 +2,8 @@
 
 ## 📰 News
 - Just lanched!
-- Added Python Level 1, Part 1 and Level 1, Part 2
+- Added Python Level 1, Part 3
+- Updated Python level 1, Part 2
 
 ## 📚 Languages
 - Python
